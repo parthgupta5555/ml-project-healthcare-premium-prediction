@@ -104,17 +104,18 @@ ml-project-healthcare-premium-prediction
 ├── main.py
 ├── prediction_helper.py
 ├── requirements.txt
+│
 ├── artifacts
-│   ├── model_young.joblib
-│   ├── model_rest.joblib
-│   ├── scaler_young.joblib
-│   └── scaler_rest.joblib
+│ ├── model_young.joblib
+│ ├── model_rest.joblib
+│ ├── scaler_young.joblib
+│ └── scaler_rest.joblib
 │
 ├── notebooks
-│   ├── data_segmentation.ipynb
-│   ├── ml_healthcare_premium_prediction.ipynb
-│   ├── ml_premium_prediction_young_with_gr.ipynb
-│   └── ml_premium_prediction_rest_with_gr.ipynb
+│ ├── data_segmentation.ipynb
+│ ├── ml_healthcare_premium_prediction.ipynb
+│ ├── ml_premium_prediction_young_with_gr.ipynb
+│ └── ml_premium_prediction_rest_with_gr.ipynb
 │
 └── README.md
 
